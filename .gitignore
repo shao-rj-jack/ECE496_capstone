@@ -1,0 +1,12 @@
+*.swp
+pytorch/env/
+__pycache__/
+cuda/old_baseline_cpu/main
+cuda/old_baseline_cpu/build/
+cuda/old_baseline_cpu/tst/main
+cuda/old_baseline_cpu/tst/build/
+pytorch/build/
+.vscode/
+CMakeFiles/
+*.cmake
+CMakeCache.txt
